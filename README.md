@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This Reactjs project has webpack + babel. Its using components published on npm, Eg InputText and Button.
+This Reactjs project has webpack + babel.Its using components published on npm, Eg InputText and Button.
+
 
 ## Available Scripts
 
